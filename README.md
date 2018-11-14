@@ -4,4 +4,4 @@
 
 - Zabbix 2.2 - 4.0
 
-Zabbix+Postgres partitioning @postgres 9.3 - 1
+Zabbix+Postgres partitioning @postgres 9.3 - 11
