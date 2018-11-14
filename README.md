@@ -1,4 +1,4 @@
-# Zabbix+Postgres partitioning
+# Zabbix+Postgres partitioning by trigger
 
 - Postgres 9.3 - 11
 
