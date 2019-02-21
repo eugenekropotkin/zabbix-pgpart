@@ -190,7 +190,7 @@ CREATE TRIGGER partition_trg
   BEFORE INSERT
   ON public.history_str
   FOR EACH ROW
-  EXECUTE PROCEDURE public.trg_partition('day'
+  EXECUTE PROCEDURE public.trg_partition('day');
 
 CREATE TRIGGER partition_trg
   BEFORE INSERT
